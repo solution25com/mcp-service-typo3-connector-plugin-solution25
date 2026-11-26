@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="EXT:ai_connector/Resources/Private/Language/module.xlf" product-name="ai_connector">
+  <file source-language="en" datatype="plaintext" original="EXT:solution25_ai_connector/Resources/Private/Language/module.xlf" product-name="solution25_ai_connector">
     <header/>
     <body>
       <trans-unit id="title">

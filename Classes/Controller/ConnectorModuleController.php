@@ -41,7 +41,7 @@ final class ConnectorModuleController
 
     private const HIDDEN_CONNECTION_FIELDS = ['connection_secret' => true, 'token_hash' => true];
 
-    private const LABELS = 'LLL:EXT:ai_connector/Resources/Private/Language/locallang.xlf:';
+    private const LABELS = 'LLL:EXT:solution25_ai_connector/Resources/Private/Language/locallang.xlf:';
 
     public function __construct(
         private readonly ModuleTemplateFactory $moduleTemplateFactory,

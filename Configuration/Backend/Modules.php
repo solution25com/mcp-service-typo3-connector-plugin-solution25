@@ -15,9 +15,9 @@ return [
         'path' => '/module/integrations/ai-connector',
         'iconIdentifier' => 'ai-connector-module',
         'labels' => [
-            'title' => 'LLL:EXT:ai_connector/Resources/Private/Language/module.xlf:title',
-            'description' => 'LLL:EXT:ai_connector/Resources/Private/Language/module.xlf:description',
-            'shortDescription' => 'LLL:EXT:ai_connector/Resources/Private/Language/module.xlf:short_description',
+            'title' => 'LLL:EXT:solution25_ai_connector/Resources/Private/Language/module.xlf:title',
+            'description' => 'LLL:EXT:solution25_ai_connector/Resources/Private/Language/module.xlf:description',
+            'shortDescription' => 'LLL:EXT:solution25_ai_connector/Resources/Private/Language/module.xlf:short_description',
         ],
         'routes' => [
             '_default' => [

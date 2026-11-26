@@ -5,7 +5,7 @@ AI connector
 ============
 
 :Extension key:
-    ai_connector
+    solution25_ai_connector
 
 :Package name:
     solution25/typo3-ai-connector

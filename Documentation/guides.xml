@@ -4,7 +4,7 @@
         xsi:schemaLocation="https://www.phpdoc.org/guides ../vendor/phpdocumentor/guides-cli/resources/schema/guides.xsd"
         links-are-relative="true">
     <extension class="\T3Docs\Typo3DocsTheme\DependencyInjection\Typo3DocsThemeExtension"
-               project-home="https://extensions.typo3.org/extension/ai_connector"
+               project-home="https://extensions.typo3.org/extension/solution25_ai_connector"
                project-repository="https://bitbucket.org/solution-25/mcp-service-typo3-connector-plugin"
                typo3-core-preferred="stable"
                interlink-shortcode="solution25/typo3-ai-connector"

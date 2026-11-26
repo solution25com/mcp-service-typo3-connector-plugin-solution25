@@ -5,7 +5,7 @@ An admin pairs a site with the one-time code shown on the gateway's sign-in page
 client may do, and can change or remove that access at any time. The gateway then works with the
 site through a small JSON API that this extension provides.
 
-- Package: `solution25/typo3-ai-connector`, extension key `ai_connector`
+- Package: `solution25/typo3-ai-connector`, extension key `solution25_ai_connector`
 - TYPO3 14.3 (tested), 13.4 (supported, not tested yet), PHP 8.2+
 - Backend module: **Administration > Integrations > AI connector** (TYPO3 13.4: **Admin Tools > AI connector**), admins only
 
@@ -13,7 +13,7 @@ site through a small JSON API that this extension provides.
 
 ```bash
 composer require solution25/typo3-ai-connector
-vendor/bin/typo3 extension:setup -e ai_connector
+vendor/bin/typo3 extension:setup -e solution25_ai_connector
 ```
 
 ## How it works

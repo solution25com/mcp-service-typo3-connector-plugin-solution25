@@ -9,7 +9,7 @@ Install the extension with Composer:
 ..  code-block:: bash
 
     composer require solution25/typo3-ai-connector
-    vendor/bin/typo3 extension:setup -e ai_connector
+    vendor/bin/typo3 extension:setup -e solution25_ai_connector
 
 The setup command creates the database tables of the extension.
 

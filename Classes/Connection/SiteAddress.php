@@ -15,7 +15,7 @@ final class SiteAddress
 {
     public const API_PATH = '/ai-connector/api/';
 
-    public const EXTENSION_KEY = 'ai_connector';
+    public const EXTENSION_KEY = 'solution25_ai_connector';
 
     private const UNKNOWN_VERSION = '0.0.0';
 

@@ -2,7 +2,7 @@
     "name": "solution25/typo3-ai-connector",
     "type": "typo3-cms-extension",
     "description": "AI connector - Connects a TYPO3 site to AI clients such as Claude through the Solution25 MCP gateway.",
-    "license": "proprietary",
+    "license": "GPL-2.0-or-later",
     "keywords": [
         "ai",
         "mcp",
@@ -42,7 +42,7 @@
     },
     "extra": {
         "typo3/cms": {
-            "extension-key": "ai_connector",
+            "extension-key": "solution25_ai_connector",
             "Package": {
                 "providesPackages": {}
             }
