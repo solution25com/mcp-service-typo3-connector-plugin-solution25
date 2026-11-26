@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:ai_connector/Resources/Private/Language/module.xlf" product-name="ai_connector">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>AI connector</source>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Connect this site to Claude and other AI clients</source>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Pair a site with an AI client through the Solution25 connector server, pick what it may do, and disconnect it again.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

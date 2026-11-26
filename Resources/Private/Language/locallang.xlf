@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:ai_connector/Resources/Private/Language/locallang.xlf" product-name="ai_connector">
+    <header/>
+    <body>
+      <trans-unit id="module.title"><source>AI connector</source></trans-unit>
+      <trans-unit id="module.intro"><source>Connect a site to Claude or another AI client. In the AI client, add the Solution25 connector and sign in; its sign-in page shows a one-time code. Paste that code here, check what the client asks for, and connect.</source></trans-unit>
+      <trans-unit id="module.gateway"><source>Connector address to add in the AI client</source></trans-unit>
+      <trans-unit id="site.identifier"><source>Site</source></trans-unit>
+      <trans-unit id="site.rootPage"><source>root page</source></trans-unit>
+      <trans-unit id="code.help"><source>Not connected. Paste the one-time code from the AI client's sign-in page. It is valid for 30 minutes and can be used once.</source></trans-unit>
+      <trans-unit id="code.label"><source>Connection code</source></trans-unit>
+      <trans-unit id="code.check"><source>Check code</source></trans-unit>
+      <trans-unit id="review.asks"><source>%s asks for access to this site.</source></trans-unit>
+      <trans-unit id="review.verifiedClient"><source>Verified client</source></trans-unit>
+      <trans-unit id="review.returnHost"><source>Returns to</source></trans-unit>
+      <trans-unit id="review.startedAt"><source>Sign-in started</source></trans-unit>
+      <trans-unit id="review.permissions"><source>Permissions to grant</source></trans-unit>
+      <trans-unit id="review.connect"><source>Connect</source></trans-unit>
+      <trans-unit id="review.cancel"><source>Cancel</source></trans-unit>
+      <trans-unit id="connected.client"><source>Connected to</source></trans-unit>
+      <trans-unit id="connected.since"><source>Since</source></trans-unit>
+      <trans-unit id="connected.siteUrl"><source>Site address</source></trans-unit>
+      <trans-unit id="connected.permissions"><source>Permissions</source></trans-unit>
+      <trans-unit id="connected.account"><source>Connector user and group</source></trans-unit>
+      <trans-unit id="connected.permissionsHelp"><source>What the AI client may do. You can only choose from what it asked for when it connected. Removing a permission applies immediately.</source></trans-unit>
+      <trans-unit id="connected.savePermissions"><source>Save permissions</source></trans-unit>
+      <trans-unit id="connected.accountMissing"><source>The connector user or group of this connection was deleted in TYPO3, so the AI client has no access. Disconnect and connect again.</source></trans-unit>
+      <trans-unit id="flash.permissionsSaved"><source>The permissions are saved and the connector server is updated.</source></trans-unit>
+      <trans-unit id="connected.disconnect"><source>Disconnect</source></trans-unit>
+      <trans-unit id="flash.connected"><source>The site is connected. Return to your AI client and click Continue.</source></trans-unit>
+      <trans-unit id="flash.disconnected"><source>The site is disconnected. The connector user, group and API token are deleted.</source></trans-unit>
+      <trans-unit id="flash.siteNotFound"><source>This site no longer exists. Reload the page.</source></trans-unit>
+      <trans-unit id="flash.failed"><source>Not done</source></trans-unit>
+      <trans-unit id="review.typo3Notice"><source>These are the TYPO3 permissions. The connector user gets exactly these rights: viewing, creating content (always saved hidden), editing content, editing pages and SEO fields of this site only.</source></trans-unit>
+      <trans-unit id="permission.page.viewer"><source>Pages: View</source></trans-unit>
+      <trans-unit id="permission.page.editor"><source>Pages: Edit</source></trans-unit>
+      <trans-unit id="permission.content.viewer"><source>Content: View</source></trans-unit>
+      <trans-unit id="permission.content.creator"><source>Content: Create (saved hidden)</source></trans-unit>
+      <trans-unit id="permission.content.editor"><source>Content: Edit</source></trans-unit>
+      <trans-unit id="permission.seo.editor"><source>SEO: Edit page title and description</source></trans-unit>
+      <trans-unit id="audit.title"><source>Recent changes</source></trans-unit>
+      <trans-unit id="audit.empty"><source>No connections made or removed yet.</source></trans-unit>
+      <trans-unit id="audit.date"><source>Date</source></trans-unit>
+      <trans-unit id="audit.site"><source>Site</source></trans-unit>
+      <trans-unit id="audit.action"><source>Action</source></trans-unit>
+      <trans-unit id="audit.outcome"><source>Outcome</source></trans-unit>
+      <trans-unit id="audit.reason"><source>Reason</source></trans-unit>
+      <trans-unit id="audit.user"><source>Backend user</source></trans-unit>
+    </body>
+  </file>
+</xliff>

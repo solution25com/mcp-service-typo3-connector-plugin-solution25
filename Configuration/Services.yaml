@@ -1,0 +1,11 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: false
+
+  Solution25\AiConnector\:
+    resource: '../Classes/*'
+
+  Solution25\AiConnector\Gateway\GatewayProtocol:
+    alias: Solution25\AiConnector\Gateway\Typo3Protocol
